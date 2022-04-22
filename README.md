@@ -12,12 +12,13 @@ Group 10
 3. Ee Chern
 
 # Problem Definition
-Are we able to predict the availibility of the carpark based on previous years analysis?
-Which model is better for predicting the lots availibility.
+* Are we able to predict the availibility of the carpark based on previous years analysis?
+* Which model is better for predicting the lots availibility.
 
 # Models Used
-Arima
-Random Forest Regression
+* Arima
+* Decision Tree Regressor
+* Random Forest Regression
 
 # Codes
 ## Jupyter Notebook 1 Explatory Data Analysis
@@ -27,5 +28,5 @@ Random Forest Regression
 # Conclusion 
 
 # Learning Points From The Project
-1. Web Scraping and making requests from an API
-2. Working on Github as a group
+* Web Scraping and making requests from an API
+* Working on Github as a group
