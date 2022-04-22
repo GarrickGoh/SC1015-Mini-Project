@@ -16,6 +16,7 @@ Are we able to predict the availibility of the carpark based on previous years a
 Which model is better for predicting the lots availibility.
 
 # Models Used
+Random Forest Regression
 
 # Codes
 ## Jupyter Notebook 1 Explatory Data Analysis
