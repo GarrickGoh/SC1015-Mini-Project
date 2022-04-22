@@ -25,5 +25,5 @@ Which model is better for predicting the lots availibility.
 # Conclusion 
 
 # Learning Points From The Project
-Web Scraping and making requests from an API
-Working on Github as a group
+1. Web Scraping and making requests from an API
+2. Working on Github as a group
