@@ -4,7 +4,12 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 2. Data Cleaning
 3. Explatory Data Analysis
 4. Machine Learning
+
 # Groupmates
 1. Garrick Goh
 2. Ivan Lai
 3. Ee Chern
+
+# Problem Definition
+Are we able to predict the availibility of the carpark based on previous API requests and analysis of previous years?
+
