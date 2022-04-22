@@ -24,4 +24,6 @@ Which model is better for predicting the lots availibility.
 
 # Conclusion 
 
-# Lessons Learnt From The Project
+# Learning Points From The Project
+Web Scraping and making requests from an API
+Working on Github as a group
