@@ -28,6 +28,7 @@ Here we will be touching on the analysis of the 10 carparks and show the availib
 
 # Conclusion 
 * Easier to find lots at off-peak hour when people drive to work 
+* Try to avoid the largest carpark. More lots, more people going to park there.
 
 # Learning Points From The Project
 * Web Scraping and making requests from an API
