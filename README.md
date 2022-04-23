@@ -21,7 +21,7 @@ Group 10
 * Random Forest Regression
 
 # Codes
-## Jupyter Notebook 1 Explatory Data Analysis
+## Jupyter Notebook 1 Exploratory Data Analysis
 ## Jupyter Notebook 2 Machine Learning
 ## Jupyter Notebook 3 
 
