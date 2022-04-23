@@ -22,7 +22,7 @@ Group 10
 
 # Codes
 ## Jupyter Notebook 1 Exploratory Data Analysis
-Here we will be touching on the analysis of the 10 carparks and show the availibility of lots over the years. As well as which timing would be ideal to get a parking lot.
+Here we will be touching on the analysis of the 10 carparks and show the availibility of lots over the years. We will be taking a look at the average lots availibility as well as the space used and there will be graphs to showcase the information. There is also a timegraph to show the information over the years and an analysis of a weekly timegraph to see in depth the lots availibility.
 ## Jupyter Notebook 2 Machine Learning
 ## Jupyter Notebook 3 
 
@@ -30,4 +30,6 @@ Here we will be touching on the analysis of the 10 carparks and show the availib
 
 # Learning Points From The Project
 * Web Scraping and making requests from an API
+* More unique ways to present EDA
+* 
 * Working on Github as a group
