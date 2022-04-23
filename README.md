@@ -27,9 +27,9 @@ Here we will be touching on the analysis of the 10 carparks and show the availib
 ## Jupyter Notebook 3 
 
 # Conclusion 
+* Easier to find lots at off-peak hour when people drive to work 
 
 # Learning Points From The Project
 * Web Scraping and making requests from an API
 * More unique ways to present EDA
-* 
 * Working on Github as a group
