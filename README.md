@@ -2,7 +2,7 @@
 This is a Mini Project for SC1015 (Introduction to Data Science and Artificial Intelligience) my group and I will be focusing on the availibility of carpark. Based on the user input of destination and time, find the best carpark for the user to go, based on the available lots. (For purpose of this project, we will be focusing on the selected 10 carparks in the Jurong Area)
 1. Data extraction: Web Scraping from https://data.gov.sg/dataset/carpark-availability for carpark availibility
 2. Data Cleaning
-3. Explatory Data Analysis
+3. Exploratory Data Analysis
 4. Machine Learning
 
 # Groupmates
