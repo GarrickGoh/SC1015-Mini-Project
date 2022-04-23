@@ -22,6 +22,7 @@ Group 10
 
 # Codes
 ## Jupyter Notebook 1 Exploratory Data Analysis
+Here we will be touching on the analysis of the 10 carparks and show the availibility of lots over the years. As well as which timing would be ideal to get a parking lot.
 ## Jupyter Notebook 2 Machine Learning
 ## Jupyter Notebook 3 
 
