@@ -14,11 +14,11 @@ Group 10
 # Contributions
 1. Garrick Goh - Exploratory Data Analysis
 2. Ivan Lai - Data Cleaning, Machine Learning Model 1 & 2, Cross-Validation: K-Fold & Forward-Chaining
-3. Ee Chern - Data Extraction, Machine Learning Model 3, Conclusion
+3. Kwek Ee Chern - Data Extraction, Machine Learning Model 3, Conclusion
 
 # Problem Definition
 * Are we able to predict the availability of the carpark based on previous year's analysis?
-* Which model is better for predicting the lots availability.
+* Which model is the most appropriate for predicting the lots availability?
 
 # Models Used
 1. Decision Tree Regressor
