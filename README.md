@@ -1,5 +1,5 @@
 # SC1015-Mini-Project
-This is a Mini Project for SC1015 (Introduction to Data Science and Artificial Intelligience), our group will be focusing on the availability of carpark. Based on the user input of destination and time, find the best carpark for the user to go, based on the available lots. (For purposes of this project, we will be focusing on the selected 10 carparks in the Jurong Area)
+This is a Mini Project for SC1015 (Introduction to Data Science and Artificial Intelligience), our group will be focusing on the lot availability of carpark. Based on the user input of time, find the best carpark for the user to go, based on the available lots. (For purposes of this project, we will be focusing on the selected 10 carparks in the Jurong Area)
 1. Data extraction: Web Scraping from https://data.gov.sg/dataset/carpark-availability for carpark availibility
 2. Data Cleaning
 3. Exploratory Data Analysis
@@ -66,3 +66,8 @@ Here we will be touching on the analysis of the 10 carparks and show the availib
 * https://towardsdatascience.com/5-types-of-plots-that-will-help-you-with-time-series-analysis-b63747818705
 * https://realpython.com/pandas-groupby/
 * https://towardsdatascience.com/a-quick-and-dirty-guide-to-random-forest-regression-52ca0af157f8
+* https://github.com/Teo-KJ/Machine-Learning-Model-for-Car-Park-Where
+* https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html
+* https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html
+* https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+* https://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html
