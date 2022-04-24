@@ -66,4 +66,3 @@ Here we will be touching on the analysis of the 10 carparks and show the availib
 * https://towardsdatascience.com/5-types-of-plots-that-will-help-you-with-time-series-analysis-b63747818705
 * https://realpython.com/pandas-groupby/
 * https://towardsdatascience.com/a-quick-and-dirty-guide-to-random-forest-regression-52ca0af157f8
-* 
