@@ -52,6 +52,7 @@ Conclusion: Only able to forecast values for the next 2 days, with varying accur
 * Try to avoid the largest carpark. More lots, more people going to park there.
 
 # Learning Points From The Project
-* Web Scraping and making requests from an API
+* Working with huge time series dataset
 * More unique ways to present EDA
-* Working on Github as a group
+* Time series Machine Learning Models
+* Time series Cross-Validations
