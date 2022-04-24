@@ -33,18 +33,18 @@ Hour_Delta: Hours Passed from start date. (2018-01-01)
 ## Jupyter Notebook 2 Exploratory Data Analysis
 Here we will be touching on the analysis of the 10 carparks and show the availibility of lots over the years. We will be taking a look at the average lots availibility as well as the space used and there will be graphs to showcase the information. There is also a timegraph to show the information over the years and an analysis of a weekly timegraph to see in depth the lots availibility.
 ## Jupyter Notebook 3 Machine Learning Model 1 & 2: Decision Tree Regressor & ARIMA
-Decision Tree Regressor: (Using Predictors: Day, Hour, Hour_Delta)\
--Split Data Evenly By Carpark, Hour and Day\
--Train Seperately By Carpark to reduce Predictors in Branches\
-10-Fold Accuracy: 0.0153\
-Conclusion: Inaccurate due to varying values in Predictors, resulting values spanned hours which further increase inaccuracy\
+Decision Tree Regressor: (Using Predictors: Day, Hour, Hour_Delta)
+*Split Data Evenly By Carpark, Hour and Day
+*Train Seperately By Carpark to reduce Predictors in Branches
+*10-Fold Accuracy: 0.0153
+*Conclusion: Inaccurate due to varying values in Predictors, resulting values spanned hours which further increase inaccuracy
 \
 ARIMA: (Using Continuous Time)\
--Splitting of Data into 5 Sections for Forward Chaining\
--Training Auto-ARIMA model using First Section\
--Testing Model using 4 other sections, addding each section to Model after testing\
+*Splitting of Data into 5 Sections for Forward Chaining
+*Training Auto-ARIMA model using First Section
+*Testing Model using 4 other sections, addding each section to Model after testing
 \
-Conclusion: Only able to forecast values for the next 2 days, with varying accuracy.\
+*Conclusion: Only able to forecast values for the next 2 days, with varying accuracy.
 ## Jupyter Notebook 4 Machine Learning Model 3: Random Forest Regression
 
 # Conclusion 
