@@ -72,3 +72,8 @@ Here we will be touching on the analysis of the 10 carparks and show the availab
 * https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html
 * https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
 * https://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html
+
+# Data Sources
+* https://data.gov.sg/dataset/carpark-availability
+* https://github.com/rjchow/singapore_public_holidays
+* https://data.gov.sg/dataset/hdb-carpark-information?view_id=398e65ae-e2cb-4312-8651-6e65d6f19ed1&resource_id=139a3035-e624-4f56-b63f-89ae28d4ae4c
