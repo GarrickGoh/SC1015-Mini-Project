@@ -38,12 +38,10 @@ Here we will be touching on the analysis of the 10 carparks and show the availib
 * Train Seperately By Carpark to reduce Predictors in Branches
 * 10-Fold Accuracy: 0.0153
 * Conclusion: Inaccurate due to varying values in Predictors, resulting values spanned hours which further increase inaccuracy
-\
 #### ARIMA: (Using Continuous Time)
 * Splitting of Data into 5 Sections for Forward Chaining
 * Training Auto-ARIMA model using First Section
 * Testing Model using 4 other sections, addding each section to Model after testing
-\
 * Conclusion: Only able to forecast values for the next 2 days, with varying accuracy.
 ## Jupyter Notebook 4 Machine Learning Model 3: Random Forest Regression
 
