@@ -1,5 +1,5 @@
 # SC1015-Mini-Project
-This is a Mini Project for SC1015 (Introduction to Data Science and Artificial Intelligience), our group will be focusing on the lot availability of carpark. Based on the user input of time, find the best carpark for the user to go, based on the available lots. (For purposes of this project, we will be focusing on the selected 10 carparks in the Jurong Area)
+This is a Mini Project for SC1015 (Introduction to Data Science and Artificial Intelligence), our group will be focusing on the lot availability of carparks. Based on the user input of time, find the best carpark for the user to go, based on the available lots. (For purposes of this project, we will be focusing on the selected 10 carparks in the Jurong Area)
 1. Data extraction: Web Scraping from https://data.gov.sg/dataset/carpark-availability for carpark availibility
 2. Data Cleaning
 3. Exploratory Data Analysis
