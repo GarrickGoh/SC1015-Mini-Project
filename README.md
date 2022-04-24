@@ -1,5 +1,5 @@
 # SC1015-Mini-Project
-This is a Mini Project for SC1015 (Introduction to Data Science and Artificial Intelligience) my group and I will be focusing on the availibility of carpark. Based on the user input of destination and time, find the best carpark for the user to go, based on the available lots. (For purpose of this project, we will be focusing on the selected 10 carparks in the Jurong Area)
+This is a Mini Project for SC1015 (Introduction to Data Science and Artificial Intelligience), our group will be focusing on the availability of carpark. Based on the user input of destination and time, find the best carpark for the user to go, based on the available lots. (For purposes of this project, we will be focusing on the selected 10 carparks in the Jurong Area)
 1. Data extraction: Web Scraping from https://data.gov.sg/dataset/carpark-availability for carpark availibility
 2. Data Cleaning
 3. Exploratory Data Analysis
@@ -35,7 +35,7 @@ Here we will be touching on the analysis of the 10 carparks and show the availib
 ## Jupyter Notebook 3 Machine Learning Model 1 & 2: Decision Tree Regressor & ARIMA
 #### Decision Tree Regressor: (Using Predictors: Day, Hour, Hour_Delta)
 * Split Data Evenly By Carpark, Hour and Day
-* Train Seperately By Carpark to reduce Predictors in Branches
+* Train Separately By Carpark to reduce Predictors in Branches
 * 10-Fold Accuracy: 0.0153
 * Conclusion: Inaccurate due to varying values in Predictors, resulting values spanned hours which further increase inaccuracy
 #### ARIMA: (Using Continuous Time)
