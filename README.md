@@ -17,8 +17,8 @@ Group 10
 3. Ee Chern - Data Extraction, Machine Learning Model 3, Conclusion
 
 # Problem Definition
-* Are we able to predict the availibility of the carpark based on previous years analysis?
-* Which model is better for predicting the lots availibility.
+* Are we able to predict the availability of the carpark based on previous year's analysis?
+* Which model is better for predicting the lots availability.
 
 # Models Used
 1. Decision Tree Regressor
@@ -31,7 +31,7 @@ After extracting the data from https://data.gov.sg/dataset/carpark-availability,
 Parameters required for Machine Learning were also added.
 Hour_Delta: Hours Passed from start date. (2018-01-01)
 ## Jupyter Notebook 2 Exploratory Data Analysis
-Here we will be touching on the analysis of the 10 carparks and show the availibility of lots over the years. We will be taking a look at the average lots availibility as well as the space used and there will be graphs to showcase the information. There is also a timegraph to show the information over the years and an analysis of a weekly timegraph to see in depth the lots availibility.
+Here we will be touching on the analysis of the 10 carparks and show the availability of lots over the years. We will be taking a look at the average lots available as well as the space used, and there will be graphs to showcase the information. There is also a time series graph to show the information over the years and an analysis of a weekly time series graph to see in depth the lots availability.
 ## Jupyter Notebook 3 Machine Learning Model 1 & 2: Decision Tree Regressor & ARIMA
 #### Decision Tree Regressor: (Using Predictors: Day, Hour, Hour_Delta)
 * Split Data Evenly By Carpark, Hour and Day
