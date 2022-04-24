@@ -18,7 +18,7 @@ Group 10
 
 # Problem Definition
 * Are we able to predict the availability of the carpark based on previous year's analysis?
-* Which model is the most appropriate for predicting the lots availability?
+* Which model is the most appropriate for predicting the lots available at the carpark?
 
 # Models Used
 1. Decision Tree Regressor
@@ -55,6 +55,7 @@ Here we will be touching on the analysis of the 10 carparks and show the availab
 # Conclusion 
 * Easier to find lots at off-peak hour when people drive to work 
 * Try to avoid the largest carpark. More lots, more people going to park there.
+* Able to use a model to predict availability of parking lots and make decisions accordingly.
 
 # Learning Points From The Project
 * Working with huge time series dataset
