@@ -12,7 +12,7 @@ Group 10
 3. Ee Chern - @Pistato
 
 # Contributions
-1. Garrick Goh - Exploratory Data Analysis
+1. Garrick Goh - Exploratory Data Analysis, Data Cleaning, Presentation Slides
 2. Ivan Lai - Data Cleaning, Machine Learning Model 1 & 2, Cross-Validation: K-Fold & Forward-Chaining
 3. Kwek Ee Chern - Data Extraction, Machine Learning Model 3, Conclusion
 
