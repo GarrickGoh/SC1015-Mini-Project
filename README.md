@@ -50,7 +50,7 @@ Here we will be touching on the analysis of the 10 carparks and show the availib
 * Training Separately by Carpark to reduce error caused by cateogorical data with multiple levels
 * 10-Fold Accuracy: 0.3429
 * Prediction of available lots at the 10 carparks on 5th January 2022.
-* Conclusion: Most feasible model to use to predict the available
+* Conclusion: Most feasible model to use to predict the availability of parking.
 
 # Conclusion 
 * Easier to find lots at off-peak hour when people drive to work 
