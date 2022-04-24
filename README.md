@@ -45,7 +45,7 @@ Here we will be touching on the analysis of the 10 carparks and show the availib
 * Testing Model using the other 4 sections one at a time, addding each section to Model after testing to improve results
 * Conclusion: Only able to forecast values for the next 2 days, with varying accuracy.
 ## Jupyter Notebook 4 Machine Learning Model 3: Random Forest Regression 
-#### (Using Predictors: Day, Hour, Hour_Delta)
+#### Random Forest Regression: (Using Predictors: Day, Hour, Hour_Delta)
 * Split Data Evenly By Carpark, Hour and Day
 * Training Separately by Carpark to reduce error caused by cateogorical data with multiple levels
 * 10-Fold Accuracy: 0.3429
